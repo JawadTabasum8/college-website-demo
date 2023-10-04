@@ -1,0 +1,344 @@
+//////////////////////////////////////////////   INDEX PAGE  //////////////////////////////////
+
+
+<!DOCTYPE html>
+
+	<html>
+
+
+        <head> 
+		<title>  F.G inter college </title>
+		</head>
+		
+		<body bgcolor = "silver" text = "brown">
+			  <div style = "background :blue; text-align : center; color : Silver;">	
+             <h1> Welcome To F.G Inter College Website</h1>
+				</div>
+				<hr color = "blue">
+				  <div>
+			  <table width = "50%" align = "center">
+			    <td align = "center"> <a link href = "index.html"> Home </a> </td>      
+               <td align = "center"><a link href = "program.html"> Programs </a> </td>
+               <td align = "center"><a link href = "admission.html"> Admissions </a> </td>
+              <td align = "center"><a link href = "contact.html"> Contact us </a> </td>
+              <table>
+			  </div>
+				<hr color = "blue">
+			      </div>
+				   <center> <img src = "fg.png" height = "600px" width = "1350px"> </center>
+				  </div>
+                <div>				
+				<h2 style = "background :blue; text-align : center; color : Silver;"> <u>Introduction</u> </h2>
+			               
+			           <p style = "text-align : center;"> Establishment of the first enver F.G Inter College at 
+								kotli has become a landmark in the history of Azad Kashmir.The ever-growing number
+								of college level instition an ever decresaing standard of education in AJK prompted
+								the need of an instituion, &nbsp;which should dispense with the quality education among
+								the region.&nbsp;In the background the establishment of F.G Inter College Kotli is
+								thought to be a watershed in the academic Perspective of this area.The existence of 
+								F.G Inter College Kotli is left as a draught of fresh  air among the people of 
+								the area.
+							 </p>
+                       </div>					
+					<hr color = "blue">
+					    <div>
+						  <h2 style = "background :blue; text-align : center; color : Silver;"> <u> Administration </u> </h2> <br>
+							<p style = "text-align : center;"> The principal is the head of institution and the
+								competent decision making authority to run the college affairs as per policy and directives
+								of the <strong>F.G.E.I(C&G)</strong>&nbsp;Directorate Rawalpindi.
+							</p>
+							 </div>
+							<hr color = "blue">
+						<div>	
+							<h2 style = "background :blue; text-align : center; color : Silver;"> <u> Faculty </u> </h2> <br>
+							<p style = "text-align : center;"> The faculty of F.G Inter College Kotli is highly
+							educated earned doctoral/master's degress from reputed institutions in pakistan.
+							</p>
+						</div>
+							<hr color = "blue">
+						<div>	
+							<h2 style = "background :blue; text-align : center; color : Silver;"> <u> Laboratories </u> </h2> <br>
+							<h5 style = "text-align :center;"> <br><br> <u> Science Laboratories </u> </h3> <br>
+							<p style = "text-align : center;"> 
+							The College has well-establihsed laboratories,fully equipped with the latest 	
+							tools/equipments/apparatus in keeping with practical needs of the student  
+							 for preparation of FBISE exams in all three disciplines.
+							 </p>
+							 
+							 
+							 <h5 style = "text-align :center">  <u> Computer Laboratories </u> </h3> <br>
+							<p style = "text-align : center;"> 
+							The College has an air-conditioned Computer laboratory,which is equipped 
+							with the latest pentium IV machine and a Window 2000 based network  
+							enviorment that facilitates the student to learn the basics of information Technology.
+							</p>
+						 </div>		
+								<hr color = "blue">
+							<div>	
+                            <h2 style = "background :blue; text-align : center; color : Silver;"> <u> Affilition Of The College </u> </h2> <br>
+							<p style = "text-align : center;">  The College being a Federal Govt. entity is 
+							affiliated with Federal Board of Intermediate and Secondary Education islamabad.
+							The syllabus and the eximination schedule of the Federal Board are Adopted by the College.
+							 </p>
+							 </div>
+								
+								<hr color = "blue">
+							<div>	
+							<h2 style = "background :blue; text-align : center; color : Silver;">  <u> Library </u> </h2> <br>
+							<p style = "text-align :center;"> 
+							In order to instill the reading habit among the students, the books,magazines
+							and supported literary material is available in College Libaray.&nbsp The students 
+							can enjoy reading in the library at their own convenience.    
+							 </p>
+                             </div>
+							 							
+							<hr color = "blue">
+							
+							<div>
+							<h2 style = "background :blue; text-align : center; color : Silver;">  <u> Location </u> </h2> <br>
+							<p style = "text-align : center;"> F.G Inter College Kotli is located in the middle
+							of bargade.It is housed in one nosie free building.
+							</p>
+							</div>
+						
+							<hr color = "blue">
+							
+							<div>
+							<h2 style = "background :blue; text-align : center; color : Silver;">  <u> Finacial Assistance </u> </h2> <br>
+							<p style = "text-align : center;"> The fee of F.G Inter College Kotli is relatively
+							lower as compared to all other pirvate and govenment colleges of kotli.</p>
+							<div>
+                                  
+			  
+		</body>
+
+	</html>
+
+/////////////////////////////////////////////////// ADDMATIONS PAGE //////////////////////////////////////////
+
+<!DOCTYPE html>
+
+	<html>
+
+
+        <head> 
+		<title>  Admissions </title>
+		</head>
+		
+		<body bgcolor = "silver" text = "brown">
+			  <div>	
+             <h1 style = "background :blue; text-align : center; color : Silver;"> Admissions Information </h1>
+				</div>
+				<hr color = "blue">
+			    <div>
+			  <table width = "50%" align = "center">
+			    <td align = "center"> <a link href = "index.html"> Home </a> </td>      
+               <td align = "center"><a link href = "program.html"> Programs </a> </td>
+               <td align = "center"><a link href = "admission.html"> Admissions </a> </td>
+              <td align = "center"><a link href = "contact.html"> Contact us </a> </td>
+              <table>
+			  </div>
+				<hr color = "blue">
+				
+				      <div>
+					    <h2 style = "background :blue; text-align : center; color : Silver;"> <u> ADMISSION POLICY/PROCEDURE </u> </h2>
+						<p align = "justify">
+						    Admission is granted to F.Sc.&nbsp; Part 1 Students in accordance with the admission 
+							policy laid down by the <strong> FGEI(C&G) </strong> Directorate, Rawalpindi.
+							Admission in science groups is restricted to the candidates obtained minimum 60 percent
+							marks in SSC examination.&nbsp; The admission call is advertised in the national Newspaper.
+							The applications would be entertained on merit.&nbsp; The prescribed admission form is attached 
+							with this prospectus.&nbsp; The admission forms duly completed in all respects must by submitted 
+							to College office before the last date fixed by the college administration. &nbsp; A candidate may
+							apply in four groups i.e.&nbsp; Pre-Engineering,&nbsp;Pre-Medical,&nbsp;Science General amd Arts/Humanities
+							for his own conveniece.&nbsp;However,&nbsp;selection will be made strictly on merit.
+						</p>
+						</div>
+						
+						<div>
+						
+						<h3 style = "background :blue; text-align : center; color : Silver;"> (A)<u> Following Documents Should be attached with the application form </u> </h3>
+						<ol type = "a">
+						 <li> Five Passport size photographs(unattested).&nbsp; Candidates's name 
+							and father's name should be written on the back of photographs.</li>
+						 <li> One attested copy of Character Certificate issued by the institution last attended. </li>
+						 <li> Two unattested photocopies of Matriculation marks sheet.</li>
+						 <li> An attested photocopy of N.I.C of father or guardian.</li>
+						 <li> Service Certificate of the father &nbsp;(in case of serving defence personnel)</li>
+						 <li> Certificate/Pension Book &nbsp;(in case of Retired Army Personnel)</li>
+						 <li> Affidavit </li>
+						 <li> Migration Certificate &nbsp; (if the candidate has passed SSC examination from the Board other
+						 than Federal Board Islamabad.)</li>
+						</ol>
+						  <h5> Incomplete forms stand rejected forthwith.</h5>
+						  <h3 style = "background :blue; text-align : center; color : Silver;"> (B)<u> Admission General Instructions </u> </h3>
+						  <ul>
+						    <li> Submission of admisssion form and its acceptance by the College authorities 
+							for consideration is no guarantee for admission.</li>
+						    <li>In case of candidate wishes to be considered for admission in mor than one groups 
+							viz Pre-Medical,Pre-Engineering and Science General,he/she should submit a separate form for
+							each group before the stipulated date. </li>
+						    <li> In their own interest,&nbsp; candidates are advised to apply for admission to other 
+							College as well.</li>
+						    <li>The College reserves the right to refuse admission to any candidate without assigning any reason. </li>
+						    <li>Admission form containing incorrect or false information shall stand rejected forthwith even if the
+							candidate has paid admission fee.</li>
+						    <li>After the publication of merit list,&nbsp; the successful candidate will have to appear before
+							the Admission Committee for interview.</li>
+						    <li> The successful candidates have to deposit the admission dues for the complete session in the
+							College Office at the same day.</li>
+						    <li>Choice of group one selected will not be changed in any case. </li>
+						    <li>The admission form should be filled in correctly. Any discrepancy arising as a result of incorrect
+							misjudge information would be the resposibility of the Student/Guardian.</li>
+						  </ul>
+						  <h3 style = "background :blue; text-align : center; color : Silver;"> (C)<u> RE-ADMISSION </u> </h3>
+						  <p align = "justify"> Re-admission of any candidate to repeat or rejoin his previous class cannot claimed as a matter of right.</p>
+                             </div>
+				            
+				
+				
+		</body>
+	
+
+	</html>	
+
+/////////////////////////////////////////////////// PROGRAMS PAGE//////////////////////////////////////////////////
+
+
+
+<!DOCTYPE html>
+
+	<html>
+
+
+        <head> 
+		<title>  Admissions </title>
+		</head>
+		
+		<body bgcolor = "silver" text = "brown">
+			  <div>	
+             <h1 style = "background :blue; text-align : center; color : Silver;"> Departments Information </h1>
+				</div>
+				<hr color = "blue">
+			  <div>
+			  <table width = "50%" align = "center">
+			    <td align = "center"> <a link href = "index.html"> Home </a> </td>      
+               <td align = "center"><a link href = "program.html"> Programs </a> </td>
+               <td align = "center"><a link href = "admission.html"> Admissions </a> </td>
+              <td align = "center"><a link href = "contact.html"> Contact us </a> </td>
+              <table>
+			  </div>
+				<hr color = "blue">
+				
+				      <div>
+					      <ol type = "i">
+						    <li> Pre-Medical </li>
+						    <li> Pre-Engineering</li>
+						    <li> Science General</li>
+						  </ol>
+						   
+                         </div>						   
+						 
+                           <hr>
+                                 
+								 
+                        <div>
+						   <h2 style = "background : blue; text-align :center; color : silver;"> <u>Subject Of Studies </u> </h2>
+                                                <hr color = "blue">        						   
+                          <h3 style = "background : blue; text-align :center; color : silver;"> <u> Compulsory Subjects </u> </h3>
+								   <ol type = "1">
+								           <li> Urdu </li>
+								           <li> English </li>
+								           <li> Islamic Education </li>
+								           <li> Pakistan Studies </li>
+					       </ol>
+                         </div>
+						     <hr color = "blue">
+                          <div>						 
+					    <h2 style = "background :blue; text-align : center; color : Silver;"> <u> Pre-Medical </u> </h2>
+						         <ol type = "1">
+								           <li> Biology </li>
+								           <li> Chemistry </li>
+								           <li> Physics </li>
+								   
+								</ol>	
+						</div>
+					  	<hr color = "blue">
+						<div>
+						   <h2 style = "background :blue; text-align : center; color : Silver;"> <u> Pre-Engineering </u> </h2>
+						         <ol type = "1">
+								           
+								           <li> Chemistry </li>
+								           <li> Physics </li>
+								           <li> Mathematics </li>
+								</ol>
+						</div>
+						<hr color = "blue">
+						<div>
+						         <h2 style = "background :blue; text-align : center; color : Silver;"> <u> Science General </u> </h2>
+						         <ol type = "1">
+								           
+								           <li> Computer </li>
+								           <li> Physics </li>
+								           <li> Mathematics </li>
+								</ol>
+						 </div>
+						 
+			</body>
+			
+</html>	
+
+
+/////////////////////////////////////////// CONTACTS US PAGE ////////////////////////////////////////////////////////
+
+
+<!DOCTYPE html>
+
+	<html>
+
+
+        <head> 
+		<title>  Admissions </title>
+		</head>
+		
+		<body bgcolor = "silver" text = "brown">
+			  <div>	
+             <h1 style = "background :blue; text-align : center; color : Silver;"> Departments Information </h1>
+				</div>
+				<hr color = "blue">
+			   <div>
+			  <table width = "50%" align = "center">
+			    <td align = "center"> <a link href = "index.html"> Home </a> </td>      
+               <td align = "center"><a link href = "program.html"> Programs </a> </td>
+               <td align = "center"><a link href = "admission.html"> Admissions </a> </td>
+              <td align = "center"><a link href = "contact.html"> Contact us </a> </td>
+              <table>
+			  </div>
+			  <hr color = "blue">
+
+
+
+			  			  
+			  
+			  
+			  <center>
+			          <h3> Cell : 058264-76543 </h3>
+                       <h3> send Email : </h3>					  
+			        <form action="" method="POST">
+					            <label> Enter Your Name </label>
+					            <input tpye = "text" name="name" maxlength = "15" placeholder = "Enter Your Name" required = "required">
+					             <br>
+							   <label> Enter Your Email  </label>
+					            <input type = "email" name="email" maxlength = "15" placeholder = "Enter email address" required = "required">
+					            <br>
+							   <label> Your Comments </label> <br>
+							   <textarea rows = "10" cols = "40" name="comment"> </textarea>
+							    <br>
+							   <input type = "submit" name="submit" value = "click tso end">
+					 </form>
+
+			 </center>
+			  
+			  
+		</body>  
+	</html>  	
